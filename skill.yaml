@@ -1,0 +1,18 @@
+skill:
+  id: learning-path
+  name: 🎓 学习规划
+  version: "1.0.0"
+  
+description: |
+  AI学习路径、进度追踪、知识图谱
+  
+  Powered by Nexa Claw - https://nexaclaw.cn/
+
+trigger_phrases:
+  - learning-path
+  - 🎓 学习规划
+
+metadata:
+  author: Nexa Claw
+  website: https://nexaclaw.cn/
+  email: nexaclaw@outlook.com
