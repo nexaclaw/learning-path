@@ -1,0 +1,17 @@
+{
+  "name": "learning-path",
+  "version": "1.0.0",
+  "description": "AI学习路径、进度追踪、知识图谱 | Nexa Claw - https://nexaclaw.cn/",
+  "author": {
+    "name": "Nexa Claw",
+    "email": "nexaclaw@outlook.com",
+    "url": "https://nexaclaw.cn/"
+  },
+  "homepage": "https://nexaclaw.cn/",
+  "license": "MIT",
+  "keywords": ["learning-path", "Nexa Claw", "AI", "automation"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexaclaw/learning-path"
+  }
+}
